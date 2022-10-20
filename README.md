@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
 <!--
 **slyang-git/slyang-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
