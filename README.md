@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
+
+My name is Bruce Yang, a backend developer currently working in Beijing, China.
 
 <!--
 **slyang-git/slyang-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
