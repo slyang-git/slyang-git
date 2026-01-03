@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-My name is Bruce Yang, a backend developer currently working in Beijing, China.
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;I'm+Bruce+Yang;Backend+Developer+in+Beijing&center=true&width=500&height=50">
 </h1>
+
+My name is Bruce Yang, a backend developer currently working in Beijing, China.
+
+
 
 
 
