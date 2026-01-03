@@ -7,12 +7,6 @@ My name is Bruce Yang, a backend developer currently working in Beijing, China.
 </h1>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=slyang-git&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=slyang-git&theme=radical)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slyang-git&layout=compact&theme=radical)
-
 
 <!--
 **slyang-git/slyang-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
