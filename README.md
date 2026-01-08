@@ -47,13 +47,6 @@ Web3 Trading System Engineer based in Beijing, China 🇨🇳
 
 ---
 
-## 🎓 Education
-
-- **M.S. in Computer Science** - Beijing Information Science and Technology University (2012-2015)
-- **B.S. in Computer & Communication** - Hunan University of Technology (2008-2012)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
