@@ -21,10 +21,14 @@
 
 ## 🏆 Achievements
 
+</div>
+
 - Led architecture design of CEX/DEX arbitrage trading systems, integrating 10+ exchanges/DEXs with microsecond-level P99 latency
 - Built high-performance trading infrastructure achieving near 100% order success rate under normal conditions
 - Specialized in Web3 quantitative trading with hands-on experience in market-making, CTA strategies, and MEV protection
 - Owned backend microservices handling 10M+ daily calls with 99.99% availability at DiDi Chuxing
+
+<div align="center">
 
 ---
 
