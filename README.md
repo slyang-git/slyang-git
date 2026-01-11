@@ -36,7 +36,7 @@
 
 | Project/Role | Description | Duration | Key Achievements |
 |--------------|-------------|----------|------------------|
-| Web3 Quantitative Trading Engineer at Whale Quant | Led CEX/DEX integration, market data processing, on-chain trading | Jul 2023 – Present | Integrated 10+ exchanges, achieved microsecond P99 latency, built monitoring platform |
+| Web3 Quantitative Trading Engineer at Abakus Global | Led CEX/DEX integration, market data processing, on-chain trading | Jul 2023 – Present | Integrated 10+ exchanges, achieved microsecond P99 latency, built monitoring platform |
 | Senior Engineer at DiDi Chuxing | Owned rider/driver microservices, taxi mini-program backend | Apr 2020 – Jul 2023 | 99.99% availability, 10M+ daily calls, led fixed-price taxi product |
 | Senior Engineer at Wecash | Architected distributed crawlers, credit report systems | Apr 2015 – Apr 2020 | Collected 230M user profiles, executed 2.5B requests |
 
