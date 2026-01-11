@@ -2,13 +2,11 @@
 
 # 👋 Hi there, I'm Bruce Yang
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web3+Trading+System+Engineer;Backend+Developer+in+Beijing;Passionate+about+Blockchain+Trading¢er=true&width=500&height=50&font=Roboto&duration=3000&pause=1000" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🚀 About Me
+
+</div>
 
 **Web3 Trading System Engineer** based in Beijing, China 🇨🇳
 
@@ -17,6 +15,8 @@
 - 💡 **Passionate about:** Low-latency systems, distributed architectures, and quantitative strategies
 - 🎯 **Always exploring:** DEX protocols, MEV protection, and on-chain optimization
 - ⚡ **Fun fact:** I can debug code faster than I can make coffee ☕
+
+<div align="center">
 
 ---
 
