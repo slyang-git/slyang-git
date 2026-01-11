@@ -78,7 +78,7 @@
   <a href="https://github.com/slyang-git" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://t.me/your_tg" target="_blank">
+  <a href="https://t.me/nonenull001" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://x.com/your_x" target="_blank">
