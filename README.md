@@ -2,7 +2,6 @@
 
 # 👋 Hi there, I'm Bruce Yang
 
----
 
 ## 🚀 About Me
 
