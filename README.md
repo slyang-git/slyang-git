@@ -64,39 +64,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/slyang-git">
-    <img src="https://github-readme-stats.vercel.app/api?username=slyang-git&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true&hide_border=true" width="49%" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slyang-git&layout=compact&langs_count=5&theme=radical&hide_border=true&hide_title=true" width="49%" alt="Top Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/slyang-git">
-    <img src="https://streak-stats.demolab.com?user=slyang-git&theme=radical&hide_border=true&border_radius=8" width="95%" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/slyang-git">
-    <img src="https://github-profile-trophy.vercel.app/?username=slyang-git&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
-## 📈 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=slyang-git&label=Profile%20views&color=0e75b6&style=flat&icon=github" alt="Profile Views" />
-</div>
-
 ---
 
 ## 🤝 Connect With Me
@@ -130,8 +97,3 @@
 <p>With 11 years of backend engineering experience, I've evolved from traditional distributed systems to cutting-edge Web3 quantitative trading. My journey includes leading CEX/DEX integrations, optimizing for microsecond latencies, and building robust blockchain infrastructure. I thrive on solving complex problems in high-stakes environments and continuously pushing the boundaries of performance and innovation.</p>
 </details>
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/slyang-git/slyang-git/output/snake.svg" alt="Snake animation" />
-</div>
